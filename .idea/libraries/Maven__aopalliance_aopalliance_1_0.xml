@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/spark/spark-1.4.0/assembly/target/scala-2.10/spark-assembly-1.4.0-hadoop2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0-javadoc.jar!/" />
+      <root url="jar://E:/spark/spark-1.4.0/assembly/target/scala-2.10/spark-assembly-1.4.0-hadoop2.2.0.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar!/" />
+      <root url="jar://E:/spark/spark-1.4.0/assembly/target/scala-2.10/spark-assembly-1.4.0-hadoop2.2.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
